@@ -19,10 +19,10 @@ Sₜ = (Count_Positive - Count_Negative) / (Count_Positive + Count_Negative + 1)
 ## 📊 Key Visualizations
 
 ### Chart 1 — Sentiment Dashboard
-![Sentiment Dashboard](outputs/chart1_sentiment_dashboard.png)
+![Sentiment Dashboard](chart1_sentiment_dashboard.png)
 
 ### Chart 2 — NLP Topic & Similarity Analysis
-![NLP Analysis](outputs/chart2_nlp_analysis.png)
+![NLP Analysis](chart2_nlp_analysis.png)
 
 ---
 
